@@ -4,9 +4,9 @@ backend:
 
 # This line should *not* be indented
 publish_mode: editorial_workflow
-site_url: https://kailoon.com
-display_url: https://kailoon.com
-logo_url: https://res.cloudinary.com/kailoon/image/upload/v1610896578/kailoon.com/logo_stqiiw.svg
+site_url: https://reza.fyi
+display_url: https://reza.fyi
+logo_url: https://res.cloudinary.com/tenun/image/upload/portfolio/logo_stqiiw.svg
 show_preview_links: true
 
 # media
