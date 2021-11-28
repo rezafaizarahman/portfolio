@@ -7,8 +7,8 @@ description: I am a freelance front-end designer & developer based in Malaysia.
 featuredImg:
 templateEngineOverride: njk,md
 eleventyNavigation:
-  key: about.
-  order: 1
+  key: 
+  order: 
 ---
 
 <div class="col-start-1 col-end-6">
@@ -17,7 +17,7 @@ eleventyNavigation:
 
 I started my web related career in 2006. I have a bachelor degree in Multimedia & Technology, but everything I know of and on the web today is self-taught. I founded LoonDesign Studio and started providing creative design & web development services since 2008.
 
-I am more of a designer-developer hybrid, or a design-minded front-end developer or [front-end designers](https://bradfrost.com/blog/post/frontend-design/ 'visit site'). I do branding, logo design, graphic design and I also write HTML, CSS, and presentational JavaScript that powers web user interfaces with a focus on responsive design, semantic markup, accessibility, and performance.
+I am more of a designer-developer hybrid, or a design-minded front-end developer or [front-end designers](https://bradfrost.com/blog/post/frontend-design/ "visit site"). I do branding, logo design, graphic design and I also write HTML, CSS, and presentational JavaScript that powers web user interfaces with a focus on responsive design, semantic markup, accessibility, and performance.
 
 - **Standard-compliant**.
 - **Optimised for mobile** as I take the mobile-first approach.
@@ -35,7 +35,7 @@ I work remotely from my home office in Malaysia.
 
 ### Now
 
-Right now, I contracted to Envato as a senior reviewer for one of the largest digital marketplaces in the world — [ThemeForest](https://themeforest.net 'goto themeforest'). I have been doing contract works with Envato since 2008, shaping the content library for **ThemeForest** & **Envato Elements**. You might remember me as kailoon the reviewer from ThemeForest.
+Right now, I contracted to Envato as a senior reviewer for one of the largest digital marketplaces in the world — [ThemeForest](https://themeforest.net "goto themeforest"). I have been doing contract works with Envato since 2008, shaping the content library for **ThemeForest** & **Envato Elements**. You might remember me as kailoon the reviewer from ThemeForest.
 
 I also work with companies and clients personally, building web sites and application UIs with a strong focus on **responsive design, accessibility, performance**. Over the years, I have the honour to collaborate with clients ranging from startups to SME. A few of them has grown successfully or getting acquired. Some of my featured clients are **Envato**, **99.co**, **Evercondo**, **MeetPoppy** & **Qbasis**. [Check out my portfolio](https://kailoon.com/works/).
 

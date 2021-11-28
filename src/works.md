@@ -3,7 +3,7 @@ layout: works.njk
 metaTitle: Portfolio
 metaDescription: The projects I'd invloved in over the years.
 title: Works
-description: Over the years, I have the honour to collaborate with clients range from startups to SME, some of them has grown successfully or being acquired. Below are some of the works I've involved with.
+description: Started by designing an operating system in 2014 when I was in college, then I continued my career working at a startup. Has collaborated to build products from SaaS, marketplace, rewards platform, education, and financial technology.
 templateEngineOverride: njk,md
 eleventyNavigation:
   key: works.

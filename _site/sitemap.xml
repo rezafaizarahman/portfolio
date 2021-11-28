@@ -2,102 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://kailoon.com/works/flickevents/</loc>
-    <lastmod>2021-02-01</lastmod>
-  </url>
-
-  <url>
-    <loc>https://kailoon.com/works/evercondo/</loc>
-    <lastmod>2021-02-15</lastmod>
-  </url>
-
-  <url>
-    <loc>https://kailoon.com/posts/2021/02/finally-settled-with-11ty/</loc>
+    <loc>https://reza.fyi/posts/2021/02/finally-settled-with-11ty/</loc>
     <lastmod>2021-02-18</lastmod>
   </url>
 
   <url>
-    <loc>https://kailoon.com/works/qbasis/</loc>
-    <lastmod>2021-02-18</lastmod>
+    <loc>https://reza.fyi/works/colearn/</loc>
+    <lastmod>2021-08-08</lastmod>
   </url>
 
   <url>
-    <loc>https://kailoon.com/works/tinder/</loc>
-    <lastmod>2021-02-19</lastmod>
+    <loc>https://reza.fyi/works/shopback/</loc>
+    <lastmod>2021-08-20</lastmod>
   </url>
 
   <url>
-    <loc>https://kailoon.com/works/envato-marketplaces-logo/</loc>
-    <lastmod>2021-02-20</lastmod>
+    <loc>https://reza.fyi/about/</loc>
+    <lastmod>2021-11-24</lastmod>
   </url>
 
   <url>
-    <loc>https://kailoon.com/works/99/</loc>
-    <lastmod>2021-02-28</lastmod>
+    <loc>https://reza.fyi/admin/</loc>
+    <lastmod>2021-11-24</lastmod>
   </url>
 
   <url>
-    <loc>https://kailoon.com/about/</loc>
-    <lastmod>2021-07-14</lastmod>
+    <loc>https://reza.fyi/</loc>
+    <lastmod>2021-11-24</lastmod>
   </url>
 
   <url>
-    <loc>https://kailoon.com/admin/</loc>
-    <lastmod>2021-07-14</lastmod>
+    <loc>https://reza.fyi/posts/</loc>
+    <lastmod>2021-11-24</lastmod>
   </url>
 
   <url>
-    <loc>https://kailoon.com/</loc>
-    <lastmod>2021-07-14</lastmod>
+    <loc>https://reza.fyi/tags/</loc>
+    <lastmod>2021-11-24</lastmod>
   </url>
 
   <url>
-    <loc>https://kailoon.com/posts/</loc>
-    <lastmod>2021-07-14</lastmod>
+    <loc>https://reza.fyi/tags/all/</loc>
+    <lastmod>2021-11-24</lastmod>
   </url>
 
   <url>
-    <loc>https://kailoon.com/tags/</loc>
-    <lastmod>2021-07-14</lastmod>
+    <loc>https://reza.fyi/tags/SSG/</loc>
+    <lastmod>2021-11-24</lastmod>
   </url>
 
   <url>
-    <loc>https://kailoon.com/tags/all/</loc>
-    <lastmod>2021-07-14</lastmod>
+    <loc>https://reza.fyi/tags/WordPress/</loc>
+    <lastmod>2021-11-24</lastmod>
   </url>
 
   <url>
-    <loc>https://kailoon.com/tags/graphic%20design/</loc>
-    <lastmod>2021-07-14</lastmod>
+    <loc>https://reza.fyi/tags/Web%20Development/</loc>
+    <lastmod>2021-11-24</lastmod>
   </url>
 
   <url>
-    <loc>https://kailoon.com/tags/web%20design/</loc>
-    <lastmod>2021-07-14</lastmod>
+    <loc>https://reza.fyi/tags/tagList/</loc>
+    <lastmod>2021-11-24</lastmod>
   </url>
 
   <url>
-    <loc>https://kailoon.com/tags/SSG/</loc>
-    <lastmod>2021-07-14</lastmod>
-  </url>
-
-  <url>
-    <loc>https://kailoon.com/tags/WordPress/</loc>
-    <lastmod>2021-07-14</lastmod>
-  </url>
-
-  <url>
-    <loc>https://kailoon.com/tags/Web%20Development/</loc>
-    <lastmod>2021-07-14</lastmod>
-  </url>
-
-  <url>
-    <loc>https://kailoon.com/tags/tagList/</loc>
-    <lastmod>2021-07-14</lastmod>
-  </url>
-
-  <url>
-    <loc>https://kailoon.com/works/</loc>
-    <lastmod>2021-07-14</lastmod>
+    <loc>https://reza.fyi/works/</loc>
+    <lastmod>2021-11-24</lastmod>
   </url>
 </urlset>
