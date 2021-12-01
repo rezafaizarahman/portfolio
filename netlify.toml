@@ -5,4 +5,34 @@
 [[redirects]]
   from = "/posts/2018/10/decluttering-bukalapak-using-konmari/"
   to = "https://medium.com/bukalapakproductdesign/decluttering-bukalapaks-style-guide-using-the-konmari-method-b8da17400bc1"
-  status = 302
+  status = 301
+
+[[redirects]]
+  from = "/portfolio/shopback"
+  to = "/works/shopback/"
+  status = 301
+
+[[redirects]]
+  from = "/portfolio/colearn"
+  to = "/works/colearn/"
+  status = 301
+
+[[redirects]]
+  from = "/portfolio/bazaar"
+  to = "/works/bazaar/"
+  status = 301
+
+[[redirects]]
+  from = "/portfolio/bukalapak"
+  to = "/works/bukalapak/"
+  status = 301
+
+[[redirects]]
+  from = "/portfolio/mailtarget"
+  to = "/works/mailtarget/"
+  status = 301
+
+[[redirects]]
+  from = "/portfolio/boengkoes"
+  to = "/works/boengkoes/"
+  status = 301
