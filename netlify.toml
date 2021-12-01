@@ -36,3 +36,8 @@
   from = "/portfolio/boengkoes"
   to = "/works/boengkoes/"
   status = 301
+
+[[redirects]]
+  from = "/resume"
+  to = "https://link.reza.fyi/resume"
+  status = 301

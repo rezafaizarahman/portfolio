@@ -7,5 +7,5 @@ description: Started by designing an operating system in 2014 when I was in coll
 templateEngineOverride: njk,md
 eleventyNavigation:
   key: works.
-  order: 2
+  order: 1
 ---
