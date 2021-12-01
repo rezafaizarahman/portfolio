@@ -1,3 +1,8 @@
 [build]
   publish = "_site"
   command = "DEBUG=* eleventy"
+
+[[redirects]]
+  from = "/posts/2018/10/decluttering-bukalapak-using-konmari/"
+  to = "https://medium.com/bukalapakproductdesign/decluttering-bukalapaks-style-guide-using-the-konmari-method-b8da17400bc1"
+  status = 302
