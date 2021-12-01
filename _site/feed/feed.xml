@@ -5,12 +5,21 @@
 	
 	<link href="https://reza.fyi/feed/feed.xml" rel="self"/>
 	<link href="https://reza.fyi/"/>
-	<updated>2021-02-18T00:00:00Z</updated>
+	<updated>2021-11-28T16:19:28Z</updated>
 	<id>https://reza.fyi/</id>
 	<author>
 		<name>rezafaizarahman</name>
 		<email>rezafaizarahman@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Test</title>
+		<link href="https://reza.fyi/posts/2021/11/test/"/>
+		<updated>2021-11-28T16:19:28Z</updated>
+		<id>https://reza.fyi/posts/2021/11/test/</id>
+		<content type="html">&lt;p&gt;Test&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Finally Settled With 11ty</title>
