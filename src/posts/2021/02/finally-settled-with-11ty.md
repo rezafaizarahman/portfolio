@@ -6,10 +6,10 @@ title: Finally Settled With 11ty
 description: Move from WordPress to Static Sites Generators — 11ty, and others.
 featuredImg: wp-11ty
 subHeading: I have been using WordPress since 2008. It helps me kickstart this blog and start freelancing as a WordPress designer + developer, which, earned me a long-term contract from ThemeForest, Envato.
-tags: ['SSG', 'WordPress', 'Web Development']
+tags: ["SSG", "WordPress", "Web Development"]
 date: 2021-02-18
 updated:
-published: true
+published: false
 ---
 
 <div class="col-start-3 col-end-9">

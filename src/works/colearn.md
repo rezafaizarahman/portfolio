@@ -1,15 +1,15 @@
 ---
 metaTitle: CoLearn
 metaDescription: Colearn is an EdTech company that uses AI technology to help students understand math problems.
-title: CoLearn - Democratizing the Future of Education in Indonesia
-description: AI-powered "automated doubt-solving" and interactive class learning feature to help students study in the COVID-19 situation. Today, CoLearn is one of Indonesia's fastest-growing education technology companies, used by more than 2,5 million students. In 2020, Google Play selected CoLearn as the best app category for personal growth.
+title: CoLearn
+description: Colearn is an EdTech company that uses AI technology to help students understand math problems.
 testimonial: Amazing! CoLearn is very helpful. Besides taking photos of questions, joining the Live Class is definitely fun. Taught basic concepts. Love Mathematics more and more!
 clientName: Retta
 clientPos: 12th Grade Student
 projectUrl: https://colearn.id
 dribbble: https://colearn.id
 featuredImg: colearn-featured
-bgColor: D1E3FE
+bgColor: EFF1F6
 featured: true
 span: true
 tasks: Product Design & Strategy
@@ -19,13 +19,15 @@ date: 2021-08-08
 
 <div class="col-start-3 col-end-9">
 
-### Problem Space
+### Context
 
 Colearn is an EdTech company that uses AI technology to help students understand math problems.
 
 Colearn started the business by collaborating with the offline tuition center to escalate Indonesia's education. Unfortunately, the offline tuition model has many challenges, like cost and time, which are only accessible to some students. Besides that, everything offline has become inefficient and scary because of COVID-19.
 
 As a Product Designer, I help CoLearn transform its business from a tuition center platform to an automated and scalable learning tool in Indonesia.
+
+I designed AI-powered "automated doubt-solving" and interactive class learning feature to help students study in the COVID-19 situation. Today, CoLearn is one of Indonesia's fastest-growing education technology companies, used by more than 2,5 million students. In 2020, Google Play selected CoLearn as the best app category for personal growth.
 
 ### Think
 
@@ -329,7 +331,7 @@ By creating the design system, we want to make it easier for everything. Startin
 
 <div class="col-start-3 col-end-9">
 
----
+<br>
 
 <div style="background-color:#111827; border-radius:16px" class="relative px-10 py-10 bg-blue-50">
   <div class="text-base leading-6 space-y-4 text-white sm:text-lg sm:leading-7">

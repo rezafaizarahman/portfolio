@@ -9,7 +9,7 @@ clientPos:
 projectUrl: https://shopback.sg
 dribbble: https://shopback.sg
 featuredImg: shopback-featured
-bgColor: F0F0F1
+bgColor: EFEFF0
 featured: true
 span: true
 tasks: Design System & Product Design
