@@ -7,5 +7,5 @@ description: Thoughts & things happened in my life.
 templateEngineOverride: njk,md
 eleventyNavigation:
   key: writings.
-  order: 2
+  order: 3
 ---

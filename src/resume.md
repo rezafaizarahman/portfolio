@@ -8,7 +8,7 @@ featuredImg:
 templateEngineOverride: njk,md
 eleventyNavigation:
   key:
-  order: 3
+  order: 0
 ---
 
 <div class="col-start-1 col-end-6">
