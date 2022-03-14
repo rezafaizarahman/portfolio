@@ -7,7 +7,7 @@ testimonial:
 clientName:
 clientPos:
 projectUrl: https://shopback.sg
-dribbble: https://shopback.sg
+dribbble: https://www.figma.com/file/btRGIrsY3lNE9MPE8zj9Hu/%5BExample%5D-Bottom-Sheets-Documentation?node-id=0%3A1
 featuredImg: shopback-featured
 bgColor: EFEFF0
 featured: true
@@ -24,6 +24,8 @@ date: 2021-08-20
 I was responsible for evolving and centralizing a cross-platform design system for nine markets with different languages. I define components, document the guideline and usage to ensure the design team can use the design system easily.
 
 Each Friday I share something at the Design System office hours event. Started with a component guideline discussion until workshop on how to use the design system.
+
+You can see example of the Sheet's component documentation [in this figma link](https://www.figma.com/file/btRGIrsY3lNE9MPE8zj9Hu/%5BExample%5D-Bottom-Sheets-Documentation?node-id=0%3A1).
 
 </div>
 
