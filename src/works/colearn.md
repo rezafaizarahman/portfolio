@@ -21,19 +21,19 @@ date: 2021-08-08
 
 ### Context
 
-Colearn is an EdTech company that uses AI technology to help students understand math problems.
+Colearn is an EdTech company that uses AI to aid students in comprehending math problems.
 
-Colearn started the business by collaborating with the offline tuition center to escalate Indonesia's education. Unfortunately, the offline tuition model has many challenges, like cost and time, which are only accessible to some students. Besides that, everything offline has become inefficient and scary because of COVID-19.
+Colearn began operations by partnering with an offline tuition center to enhance Indonesia's education. However, the offline tuition model has many drawbacks, such as cost and time, making it accessible only to certain students. Moreover, due to COVID-19, offline activities have become inefficient and risky.
 
-As a Product Designer, I help CoLearn transform its business from a tuition center platform to an automated and scalable learning tool in Indonesia.
+As a Product Designer, I help CoLearn transform its business from a tuition center platform to an automated, scalable, and effective learning tool in Indonesia.
 
-I designed AI-powered "automated doubt-solving" and interactive class learning feature to help students study in the COVID-19 situation. Today, CoLearn is one of Indonesia's fastest-growing education technology companies, used by more than 2,5 million students. In 2020, Google Play selected CoLearn as the best app category for personal growth.
+I designed an AI-powered "automated doubt-solving" and interactive class learning feature to help students study during the COVID-19 pandemic. Today, CoLearn is one of Indonesia's fastest-growing education technology companies, with over 2.5 million users. In 2020, Google Play selected CoLearn as the best app in the personal growth category.
 
 ### Think
 
 One of the challenges to transform the business is we only have a limited time. I collaborate with the Customer Insight team to validate the early-stage changes to save time.
 
-We start by doing 1:1 interviews online with some students from various Indonesian cities. The goal is to understand how their learning experiences so far. Through the interview, we found three main points:
+We conducted 1:1 online interviews with students from various Indonesian cities to gain insights into their learning experiences. Three main points emerged from the interviews:
 
 <div style="background-color:#EFF1F6; border-radius:16px" class="relative px-10 py-10 bg-blue-50">
   <div class="text-base leading-6 space-y-4 text-gray-700 sm:text-lg sm:leading-7">
@@ -46,21 +46,21 @@ We start by doing 1:1 interviews online with some students from various Indonesi
             <svg class="flex-shrink-0 h-5 w-5 text-cyan-500" viewBox="0 0 20 20" fill="currentColor">
               <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
           </span>
-          <p style="margin-left: 8px;" class="ml-2 text-lg">The student has a problem finding the trusted resources to understand math lessons.</p>
+          <p style="margin-left: 8px;" class="ml-2 text-lg">The student has difficulty locating reliable resources to comprehend math lessons.</p>
         </li>
         <li class="flex items-start">
           <span class="h-6 flex items-center sm:h-7">
             <svg class="flex-shrink-0 h-5 w-5 text-cyan-500" viewBox="0 0 20 20" fill="currentColor">
               <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
           </span>
-          <p style="margin-left: 8px;" class="ml-2 text-lg">The student has trouble finding a high-quality teacher to improve overall academic outcomes.</p>
+          <p style="margin-left: 8px;" class="ml-2 text-lg">The student is struggling to find an excellent teacher to enhance their academic success.</p>
         </li>
         <li class="flex items-start">
           <span class="h-6 flex items-center sm:h-7">
             <svg class="flex-shrink-0 h-5 w-5 text-cyan-500" viewBox="0 0 20 20" fill="currentColor">
               <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
           </span>
-          <p style="margin-left: 8px;" class="ml-2 text-lg">The student has a problem practicing their skills because the available exam questions are limited.</p>
+          <p style="margin-left: 8px;" class="ml-2 text-lg">The student struggles to practice their skills due to the limited number of exam questions available.</p>
         </li>
       </ul>
     </div>
@@ -68,7 +68,7 @@ We start by doing 1:1 interviews online with some students from various Indonesi
 
 ### Explore
 
-We try to explore the problem by creating a customer journey. We defined how the student will interact with the CoLearn.
+We explored the problem by creating a customer journey. We defined the student's interaction with CoLearn.
 
 </div>
 
@@ -78,7 +78,7 @@ We try to explore the problem by creating a customer journey. We defined how the
 
 <div class="col-start-3 col-end-9">
 
-We convert to a main flow from the customer journey then create the wireframe to confirm the idea. In this stage, we decide to make four main features:
+From the customer journey, we convert to a main flow and create a wireframe to confirm the idea. In this stage, we decide to include four main features:
 
 <div style="background-color:#1e40af; border-radius:16px" class="relative px-10 py-10 bg-blue-50">
   <div class="text-base leading-6 space-y-4 text-white sm:text-lg sm:leading-7">
@@ -88,19 +88,19 @@ We convert to a main flow from the customer journey then create the wireframe to
       <ul class="list-disc space-y-2">
         <li class="flex flex-col items-start">
           <div class="ml-2 text-lg font-bold">Tutor (Tutor finder feature)</div>
-          <p class="ml-2 text-lg">Students can find and ask teachers when they have difficulty learning.</p>
+          <p class="ml-2 text-lg">Students can seek help from teachers when they encounter learning difficulties.</p>
         </li>
         <li class="flex flex-col items-start">
           <div class="ml-2 text-lg font-bold">Bimbel (Tuition Center)</div>
-          <p class="ml-2 text-lg">Students can find nearby tuition centers and join for long-term learning. It will give deeper understanding instead of only learn when they have difficulty.</p>
+          <p class="ml-2 text-lg">Students can locate nearby tuition centers and enroll for long-term learning. This will provide a deeper understanding rather than merely studying when they encounter difficulties.</p>
         </li>
         <li class="flex flex-col items-start">
           <div class="ml-2 text-lg font-bold">Practice</div>
-          <p class="ml-2 text-lg">Students can practice answering exam questions to improve their skills at any time.</p>
+          <p class="ml-2 text-lg">Students can hone their exam skills at any time by practicing answering questions.</p>
         </li>
         <li class="flex flex-col items-start">
           <div class="ml-2 text-lg font-bold">CoLearn+</div>
-          <p class="ml-2 text-lg">Students can learn from inspirational people, so the student can have a role model to dream.</p>
+          <p class="ml-2 text-lg">Students can learn from inspirational people, providing them with role models to dream about.</p>
         </li>
       </ul>
     </div>
@@ -120,7 +120,7 @@ We convert to a main flow from the customer journey then create the wireframe to
 
 #### Wireframe
 
-We create the wireframe base on the main flow that we make before. We try to confirm our hypothesis: Are the student problems solved by those features or not.
+We create the wireframe based on the main flow we constructed earlier. We aim to confirm our hypothesis: Will the student problems be solved by these features?
 
 </div>
 
@@ -146,9 +146,9 @@ We create the wireframe base on the main flow that we make before. We try to con
 
 <div class="col-start-3 col-end-9">
 
-To start, we research with some students to test our wireframe. We hypothesize that students will not go to the tuition center anymore. So, we do A/B testing by creating two versions of the prototype; With the Bimbel feature and Without the Bimbel part.
+We began by researching with students to test our wireframe. We hypothesized that students would no longer visit the tuition center. So, we conducted A/B testing by creating two versions of the prototype; one with the Bimbel (Tuition Center) feature, and one without it.
 
-The research results are pretty surprising to us. Some of the features we explored before didn't meet student needs. Here is the insight:
+The research results surprised us. Some of the features we had previously investigated failed to meet student needs. Here is our insight:
 
 <div style="background-color:#EFF1F6; border-radius:16px" class="relative px-10 py-10 bg-blue-50">
   <div class="text-base leading-6 space-y-4 text-gray-700 sm:text-lg sm:leading-7">
@@ -161,21 +161,21 @@ The research results are pretty surprising to us. Some of the features we explor
             <svg class="flex-shrink-0 h-5 w-5 text-cyan-500" viewBox="0 0 20 20" fill="currentColor">
               <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
           </span>
-          <p style="margin-left: 8px;" class="ml-2 text-lg">Most of them are not interested in going to a tuition center. But they need long-term learning to understand more.</p>
+          <p style="margin-left: 8px;" class="ml-2 text-lg">Most of them are not keen on attending a tuition center, but they need long-term learning to gain a deeper understanding.</p>
         </li>
         <li class="flex items-start">
           <span class="h-6 flex items-center sm:h-7">
             <svg class="flex-shrink-0 h-5 w-5 text-cyan-500" viewBox="0 0 20 20" fill="currentColor">
               <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
           </span>
-          <p style="margin-left: 8px;" class="ml-2 text-lg">We found students having trouble asking several questions because they need to book the teacher then ask the schedule first, even though students need to solve the problem as soon as possible, in an instant way.</p>
+          <p style="margin-left: 8px;" class="ml-2 text-lg">Students experienced difficulty asking multiple questions because they had to book the teacher and then inquire about the schedule. They needed to resolve the issue quickly</p>
         </li>
         <li class="flex items-start">
           <span class="h-6 flex items-center sm:h-7">
             <svg class="flex-shrink-0 h-5 w-5 text-cyan-500" viewBox="0 0 20 20" fill="currentColor">
               <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
           </span>
-          <p style="margin-left: 8px;" class="ml-2 text-lg">We found students already have many role models to get inspired by, for example, from YouTube. So, we are not focusing on this part for now.</p>
+          <p style="margin-left: 8px;" class="ml-2 text-lg">Students already have plenty of inspiring role models, such as those found on YouTube, so we're not focusing on this for now.</p>
         </li>
       </ul>
     </div>
@@ -183,7 +183,7 @@ The research results are pretty surprising to us. Some of the features we explor
 
 <br>
 
-From those insights, we're thinking of merging and change some features. We come up with three main parts:
+Based on our insights, we are considering merging and modifying some features. We have identified three main components:
 
 <div style="background-color:#1e40af; border-radius:16px" class="relative px-10 py-10 bg-blue-50">
   <div class="text-base leading-6 space-y-4 text-white sm:text-lg sm:leading-7">
@@ -193,7 +193,7 @@ From those insights, we're thinking of merging and change some features. We come
       <ul class="list-disc space-y-2">
         <li class="flex flex-col items-start">
           <div class="ml-2 text-lg font-bold">Live Class</div>
-          <p class="ml-2 text-lg">Students can join interactive live classes for long-term learning. It will give the student a deeper understanding. The Live Class is only limited to a small group to provide a personal experience.</p>
+          <p class="ml-2 text-lg">Students can join interactive, live classes for long-term learning, providing a deeper understanding. These classes are limited to small groups, allowing for a more personal experience.</p>
         </li>
         <li class="flex flex-col items-start">
           <div class="ml-2 text-lg font-bold">Ask(automated doubt solving)</div>
@@ -201,7 +201,7 @@ From those insights, we're thinking of merging and change some features. We come
         </li>
         <li class="flex flex-col items-start">
           <div class="ml-2 text-lg font-bold">Practice</div>
-          <p class="ml-2 text-lg">Students can practice answering exam questions to improve their skills at any time.</p>
+          <p class="ml-2 text-lg">Students can hone their exam-taking skills by practicing answering questions whenever they wish.</p>
         </li>
       </ul>
     </div>
@@ -211,11 +211,9 @@ From those insights, we're thinking of merging and change some features. We come
 
 #### Live Class
 
-**Learn concepts, practice together, and prepare for exams in a live and interactive class.**
+**Learn concepts, practice together, and prepare for exams in an interactive, live class.**
 
-Live classes are designed to increase self-confidence to understand concepts. Teachers will teach live and interactively.
-
-This aims to make it easier for students to understand the concepts, practice questions, and prepare for exams.
+Live classes are designed to boost students' confidence in understanding concepts. Teachers will teach and interact with students in real-time. This makes it easier for students to comprehend the concepts, practice questions, and prepare for exams.
 
 <div class="col-start-2 col-end-10">
 {% figure 'live-1', 'Screenshot CoLearn Live Class', '' %}
