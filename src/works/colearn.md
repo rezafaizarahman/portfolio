@@ -1,9 +1,9 @@
 ---
 metaTitle: CoLearn
-metaDescription: Colearn is an EdTech company that uses AI technology to help students understand math problems.
+metaDescription: Colearn is an EdTech company that uses AI to aid students in comprehending math problems.
 title: CoLearn
-description: Colearn is an EdTech company that uses AI technology to help students understand math problems.
-testimonial: Amazing! CoLearn is very helpful. Besides taking photos of questions, joining the Live Class is definitely fun. Taught basic concepts. Love Mathematics more and more!
+description: Colearn is an EdTech company that uses AI to aid students in comprehending math problems.
+testimonial: Wow! CoLearn is incredibly useful. In addition to taking pictures of questions, joining the Live Class is a blast. They taught me the fundamentals. I'm falling in love with Math even more!
 clientName: Retta
 clientPos: 12th Grade Student
 projectUrl: https://colearn.id
@@ -213,7 +213,7 @@ Based on our insights, we are considering merging and modifying some features. W
 
 **Learn concepts, practice together, and prepare for exams in an interactive, live class.**
 
-Live classes are designed to boost students' confidence in understanding concepts. Teachers will teach and interact with students in real-time. This makes it easier for students to comprehend the concepts, practice questions, and prepare for exams.
+Live classes help students build confidence in understanding concepts. Teachers teach and interact with students in real-time, making it easier for students to comprehend the material, practice questions, and prepare for exams.
 
 <div class="col-start-2 col-end-10">
 {% figure 'live-1', 'Screenshot CoLearn Live Class', '' %}
@@ -227,13 +227,13 @@ Live classes are designed to boost students' confidence in understanding concept
 
 <div class="col-start-3 col-end-9">
 
-#### Ask(automated doubt solving)
+#### Ask (automated doubt solving)
 
 **Get step-by-step video solutions to your math problems instantly.**
 
-The Ask feature is designed to make it easier for students to learn from their difficulties. So that students can understand concepts deeper and quickly.
+The Ask feature is designed to help students learn from their mistakes, enabling them to gain a deeper understanding of concepts quickly.
 
-Students only need to take a photo of the question they don't understand. CoLearn will answer the questions automatically by providing video solutions. This feature is built using image recognition and natural language processing technology.
+Students can take a photo of any question they don't understand. CoLearn uses image recognition and natural language processing technology to automatically provide video solutions.
 
 <div class="col-start-2 col-end-10">
 {% figure 'ads-1', 'Screenshot CoLearn automated doubt solving', '' %}
@@ -255,11 +255,11 @@ Students only need to take a photo of the question they don't understand. CoLear
 
 #### Practice
 
-**Prepare for the exams by practice answer the questions from various subjects.**
+**Prepare for exams by practicing answering questions from different subjects.**
 
-The Practice feature is designed to improve students' skills in answering questions from various subjects to understand them better.
+The Practice feature helps students hone their skills in answering questions from different subjects so they can gain a better understanding.
 
-Students can exercise themself to answer simulated exams like the original. After finish it, they will immediately receive the report to understand where to improve.
+Students can exercise themselves by taking simulated exams like the real thing. Upon completion, they receive an immediate report to identify areas for improvement.
 
 <div class="col-start-2 col-end-10">
 {% figure 'practice-1', 'Screenshot CoLearn Practice', '' %}
@@ -275,19 +275,19 @@ Students can exercise themself to answer simulated exams like the original. Afte
 
 #### WhatsApp Chatbot
 
-**Increase user growth by bringing it from the most common channels.**
+**Grow user base by leveraging the most popular channels.**
 
-More than 80% of internet users in Indonesia use WhatsApp. Instead of promoting social media to download the app, we've been thinking of creating other channels to increase user growth.
+More than 80% of internet users in Indonesia use WhatsApp. To increase user growth, we've been exploring alternative channels rather than relying solely on social media promotion.
 
-Collaborating with the UX Writer, we design the WhatsApp chatbot feature. We use the Botsociety for the prototyping to make it easy to testing and share with stakeholders.
+We collaborate with the UX Writer to design the WhatsApp chatbot feature. We use Botsociety for prototyping, making it easy to test and share with stakeholders.
 
 #### Design System
 
 **Creating a cohesive and scalable design system**
 
-We created a design system to establish consistency and speed up the design and development process. We set out to create a design system that's simple, clear, and visually fun for the student.
+We developed a design system to ensure consistency and accelerate the design and development process. Our goal was to create a design system that is straightforward, understandable and visually appealing for students.
 
-We start to define a foundation like colors, typography, elevation, icon, and grid. As a foundation, we describe making it easy to use across platforms like Web, iOS, and Android. Accordingly, the team can build a faster and more accessible interface.
+We define a foundation of colors, typography, elevation, icons, and grids to make it easier to use across Web, iOS, and Android platforms. This enables the team to build a faster and more accessible interface.
 
 <div class="col-start-2 col-end-10">
 {% figure 'token-1', 'Screenshot CoLearn Design Token', '' %}
@@ -301,9 +301,9 @@ We start to define a foundation like colors, typography, elevation, icon, and gr
 
 <div class="col-start-3 col-end-9">
 
-Apart from Foundation, we build the Core UI components such as Avatar, Tag, Button, Form, and Alert. As the app continues to grow, we also create some new components as templates, such as Top Bar, Bottom Bar, and Feedback.
+In addition to Foundation, we construct Core UI components such as Avatar, Tag, Button, Form and Alert. As the app expands, we also develop new components as templates, such as Top Bar, Bottom Bar and Feedback.
 
-By creating the design system, we want to make it easier for everything. Starting from designers themselves, engineers, and most students who use it.
+By creating the design system, we want to make it easier for everyone. Starting from designers themselves, engineers, and users.
 
 <div class="col-start-2 col-end-10">
 {% figure 'component-1', 'Screenshot CoLearn Design System', '' %}
@@ -337,9 +337,9 @@ By creating the design system, we want to make it easier for everything. Startin
         <p>🏆 Launch</p>
       </div>
       <div>
-        <p class="text-lg">In August 2020, the new CoLearn was launched. After 3 months of my involvement in the transformation, it was great to see the design brought to life and help students learn every day.</p>
-        <p class="text-lg">Since it was released, the unique student registration growing over 2.5 million as of March 2021.</p>
-        <p class="text-lg">The most influential impact on success is on students. We've got some feedback from the student if they enjoyed and were helped by CoLearn.</p>
+        <p class="text-lg">In August 2020, we launched the new CoLearn. After three months of my involvement in the transformation, it was rewarding to see the design come to life and help students learn every day.</p>
+        <p class="text-lg">The unique student registration has grown to over 2.5 million as of March 2021 since its release.</p>
+        <p class="text-lg">Student feedback has shown that CoLearn has had a significant impact on success. Many students have reported enjoying and benefiting from the experience.</p>
       </div>
     </div>
 </div>
