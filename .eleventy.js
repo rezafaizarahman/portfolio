@@ -33,7 +33,7 @@ module.exports = function (eleventyConfig) {
       style ? style : ""
     }" loading="lazy" src="${src}" srcset="${srcset}" alt="${
       alt ? alt : ""
-    }" width="400" height="300" sizes="100vw">`;
+    }" width="600" height="450" sizes="(min-width: 768px) 50vw, 100vw">`;
   });
 
   eleventyConfig.addShortcode("figure", (path, alt, caption) => {
